@@ -9,7 +9,6 @@ except:
     from setuptools import setup, find_packages
 
 from setuptools import setup
-from geraldo.version import get_version
 
 setup(
     name = 'Geraldo',
